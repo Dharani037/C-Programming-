@@ -1,4 +1,4 @@
-//if-else-if
+//if-else-if condition
 //program to find positive,negativ or neutral
 #include<stdio.h>
 #include<conio.h>
